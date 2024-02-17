@@ -1,7 +1,7 @@
-API_ID =   # api id
-API_HASH = ""  # api hash
+API_ID = "29459252"
+API_HASH = "y"
 
-BOT_TOKEN = ""  # bot token
+BOT_TOKEN = "6945293144:AAGU3SDR9Dlzs5A3wbhd7TOzPg3QIUL-MuA" 
 
 
 ## REDIS
